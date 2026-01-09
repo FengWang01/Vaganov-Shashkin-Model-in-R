@@ -1,5 +1,5 @@
-Vaganov-Shashkin-Model-in-R
-# R implementation of VSM Vaganov-Shashkin Cambial Growth Model.
+# Vaganov-Shashkin-Model-in-R
+R implementation of VSM Vaganov-Shashkin Cambial Growth Model.
 Version: 1.0.0                                                                        
 Authors: Feng Wang, Kevin J. Anchukaitis.                                  
 Date: February 2025                                                           
